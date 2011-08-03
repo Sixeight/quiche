@@ -1,0 +1,11 @@
+
+= Quiche
+
+Quiche is a dummy server of memcached writen by pure Ruby.
+
+== SYNOPSIS:
+
+run server
+
+  $ quiche -l 127.0.0.1
+
